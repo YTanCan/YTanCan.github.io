@@ -561,7 +561,8 @@ header .go-back i {
     display: block;
     left: 0;
     top: 0;
-    content: "";
+   /* content: "";*/ 
+   /*背景虚化可有可无*/
 }
 
 .bg-cover .container {
