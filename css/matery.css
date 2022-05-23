@@ -528,7 +528,7 @@ header .go-back i {
     line-height: 56px;
 }
 
-/* 背景图效果. */
+/* 背景图效果. 
 .bg-cover {
     position: relative;
     display: flex;
@@ -553,7 +553,7 @@ header .go-back i {
 
 
 .bg-cover:before,
-/*.bg-cover:after {
+.bg-cover:after {
     position: absolute;
     z-index: 1;
     width: 100%;
@@ -561,8 +561,7 @@ header .go-back i {
     display: block;
     left: 0;
     top: 0;
-   /* content: "";*/ 
-   /*背景虚化可有可无*/
+    content: ""; # 背景虚化
 }
 
 .bg-cover .container {
@@ -685,7 +684,7 @@ header .go-back i {
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
-}
+}*/
 
 .index-card {
     margin-top: -10px;
