@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dream</title>
+  
+  <subtitle>龙氏集团</subtitle>
+  <link href="http://ytancan.xyz/atom.xml" rel="self"/>
+  
+  <link href="http://ytancan.xyz/"/>
+  <updated>2022-05-23T08:39:08.597Z</updated>
+  <id>http://ytancan.xyz/</id>
+  
+  <author>
+    <name>YTanCan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>股东排名</title>
+    <link href="http://ytancan.xyz/2022/05/23/shareholder-ranking/"/>
+    <id>http://ytancan.xyz/2022/05/23/shareholder-ranking/</id>
+    <published>2022-05-23T08:04:56.000Z</published>
+    <updated>2022-05-23T08:39:08.597Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;股东排名&quot;&gt;&lt;a href=&quot;#股东排名&quot; class=&quot;headerlink&quot; title=&quot;股东排名&quot;&gt;&lt;/a&gt;股东排名&lt;/h2&gt;&lt;h3 id=&quot;1-肚饿真君-10&quot;&gt;&lt;a href=&quot;#1-肚饿真君-10&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="投资榜" scheme="http://ytancan.xyz/tags/%E6%8A%95%E8%B5%84%E6%A6%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>赞助光荣榜</title>
+    <link href="http://ytancan.xyz/2022/05/23/sponsorship-leaderboard/"/>
+    <id>http://ytancan.xyz/2022/05/23/sponsorship-leaderboard/</id>
+    <published>2022-05-23T08:04:56.000Z</published>
+    <updated>2022-05-23T08:36:34.341Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;光荣榜&quot;&gt;&lt;a href=&quot;#光荣榜&quot; class=&quot;headerlink&quot; title=&quot;光荣榜&quot;&gt;&lt;/a&gt;光荣榜&lt;/h1&gt;&lt;h2 id=&quot;1-肚饿真君-10-00元&quot;&gt;&lt;a href=&quot;#1-肚饿真君-10-00元&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="赞助榜" scheme="http://ytancan.xyz/tags/%E8%B5%9E%E5%8A%A9%E6%A6%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你好世界</title>
+    <link href="http://ytancan.xyz/2022/05/20/hello-world/"/>
+    <id>http://ytancan.xyz/2022/05/20/hello-world/</id>
+    <published>2022-05-19T16:00:00.000Z</published>
+    <updated>2022-05-23T08:30:36.378Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;!  这是你的第一篇文章. 查看 &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;文档&lt;/a&gt; 了解更多信息。 如果你在使用 Hexo 时遇到任何问题，可以在 &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="新手教程" scheme="http://ytancan.xyz/tags/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《关于我有一个叫龙总的同桌这件事》</title>
+    <link href="http://ytancan.xyz/2022/05/20/long/"/>
+    <id>http://ytancan.xyz/2022/05/20/long/</id>
+    <published>2022-05-19T16:00:00.000Z</published>
+    <updated>2022-05-23T08:22:27.987Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;　　我的同桌是一位叫龙总的。远看斯斯文文[斯文败类]&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="所见所闻" scheme="http://ytancan.xyz/tags/%E6%89%80%E8%A7%81%E6%89%80%E9%97%BB/"/>
+    
+  </entry>
+  
+</feed>
