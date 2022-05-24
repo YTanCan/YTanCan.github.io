@@ -6,7 +6,7 @@
   <link href="http://ytancan.xyz/atom.xml" rel="self"/>
   
   <link href="http://ytancan.xyz/"/>
-  <updated>2022-05-23T08:39:08.597Z</updated>
+  <updated>2022-05-23T08:30:36.378Z</updated>
   <id>http://ytancan.xyz/</id>
   
   <author>
@@ -15,52 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>股东排名</title>
-    <link href="http://ytancan.xyz/2022/05/23/gudong/"/>
-    <id>http://ytancan.xyz/2022/05/23/gudong/</id>
-    <published>2022-05-23T08:04:56.000Z</published>
-    <updated>2022-05-23T08:39:08.597Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="投资榜" scheme="http://ytancan.xyz/tags/%E6%8A%95%E8%B5%84%E6%A6%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>赞助光荣榜</title>
-    <link href="http://ytancan.xyz/2022/05/23/zanzhu/"/>
-    <id>http://ytancan.xyz/2022/05/23/zanzhu/</id>
-    <published>2022-05-23T08:04:56.000Z</published>
-    <updated>2022-05-23T08:36:34.341Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="赞助榜" scheme="http://ytancan.xyz/tags/%E8%B5%9E%E5%8A%A9%E6%A6%9C/"/>
-    
-  </entry>
   
   <entry>
     <title>你好世界</title>
@@ -82,23 +36,6 @@
     
     
     <category term="新手教程" scheme="http://ytancan.xyz/tags/%E6%96%B0%E6%89%8B%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《关于我有一个叫龙总的同桌这件事》</title>
-    <link href="http://ytancan.xyz/2022/05/20/long/"/>
-    <id>http://ytancan.xyz/2022/05/20/long/</id>
-    <published>2022-05-19T16:00:00.000Z</published>
-    <updated>2022-05-23T12:35:47.931Z</updated>
-    
-    
-    <summary type="html">这里有东西被加密了，需要输入密码查看哦。</summary>
-    
-    
-    
-    
-    <category term="加密文章" scheme="http://ytancan.xyz/tags/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
